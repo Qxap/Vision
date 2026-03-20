@@ -1,4 +1,4 @@
-Visión Artificial
+***Artifical Vision***
 
 -Interfaz gráfica
 -detección y clasificación de piezas metálicas
